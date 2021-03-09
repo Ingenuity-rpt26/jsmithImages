@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const imagesSchema = new mongoose.Schema({
+module.exports = imagesSchema = new mongoose.Schema({
   id: Number,
   offeredBy: Number,
   offeredByAbout: String,

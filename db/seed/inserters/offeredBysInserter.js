@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
-const offeredBysData = require('../../data/offeredBys.json');
+const offeredBysData = require('../data/offeredBys.json');
 
 let offeredBysInsert = () => {
-  mongoose.connect('mongodb://localhost/instructors', { useNewUrlParser: true, useUnifiedTopology: true });
+  mongoose.connect('mongodb://127.0.0.1/instructors', { useNewUrlParser: true, useUnifiedTopology: true });
 
   const db = mongoose.connection;
   db.on('error', console.error.bind(console, 'offeredBys connection error'));
@@ -23,8 +23,9 @@ let offeredBysInsert = () => {
       console.error(err);
     }
     console.log('OfferedBys success');
-    process.exit();
+    mongoose.connection.close()
   })
 };
 
-offeredBysInsert();
+
+module.exports.offeredBysInsert = offeredBysInsert;

@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
-const imagesData = require('../../data/images.json');
+const imagesData = require('../data/images.json');
 
 let imagesInsert = () => {
-  mongoose.connect('mongodb://localhost/images', { useNewUrlParser: true, useUnifiedTopology: true });
+  mongoose.connect('mongodb://127.0.0.1/images', { useNewUrlParser: true, useUnifiedTopology: true });
 
   const db = mongoose.connection;
   db.on('error', console.error.bind(console, 'images connection error'));
@@ -36,8 +36,9 @@ let imagesInsert = () => {
       console.error(err);
     }
     console.log('Images success');
-    process.exit();
+    db.close();
   })
 };
 
-imagesInsert();
+
+module.exports.imagesInsert = imagesInsert;

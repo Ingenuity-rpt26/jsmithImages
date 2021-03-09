@@ -2,7 +2,7 @@ const faker = require('faker');
 const fs = require('fs')
 
 //creates 9 testimonials
-function generateTestimonials() {
+module.exports.generateTestimonials = () => {
   let testimonials = [];
 
   for (let id=1; id <= 9; id++) {
@@ -13,9 +13,7 @@ function generateTestimonials() {
     }
     testimonials.push(testimonial);
   }
-  return testimonials;
-}
 
-let dataObj = generateTestimonials();
-
-fs.writeFileSync('../data/testimonials.json', JSON.stringify(dataObj, null, '\t'));
+  fs.writeFileSync('../data/testimonials.json', JSON.stringify(testimonials, null, '\t'));
+  return;
+};

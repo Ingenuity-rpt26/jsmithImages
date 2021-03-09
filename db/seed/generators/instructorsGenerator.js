@@ -1,7 +1,7 @@
 const faker = require('faker');
 const fs = require('fs')
 
-function generateInstructors() {
+module.exports.generateInstructors = () => {
   let instructors = [];
 
   let schools = [
@@ -110,9 +110,6 @@ function generateInstructors() {
   createInstructors();
   addPrimaryInstructors();
   addAssistantInstructors();
-  return instructors;
+  fs.writeFileSync('../data/instructors.json', JSON.stringify(instructors, null, '\t'));
+  return;
 }
-
-let dataObj = generateInstructors();
-
-fs.writeFileSync('../data/instructors.json', JSON.stringify(dataObj, null, '\t'));

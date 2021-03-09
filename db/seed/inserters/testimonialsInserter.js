@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
-const testimonialsData = require('../../data/testimonials.json');
+const testimonialsData = require('../data/testimonials.json');
 
 let testimonialsInsert = () => {
-  mongoose.connect('mongodb://localhost/instructors', { useNewUrlParser: true, useUnifiedTopology: true });
+  mongoose.connect('mongodb://127.0.0.1/instructors', { useNewUrlParser: true, useUnifiedTopology: true });
 
   const db = mongoose.connection;
   db.on('error', console.error.bind(console, 'testimonials connection error'));
@@ -23,8 +23,9 @@ let testimonialsInsert = () => {
       console.error(err);
     }
     console.log('Testimonials success');
-    process.exit();
+    mongoose.connection.close()
   })
 };
 
-testimonialsInsert();
+
+module.exports.testimonialsInsert = testimonialsInsert;
