@@ -4,134 +4,121 @@
 		"offeredBy": 2,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/10.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial1Id": 8,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial3Id": 5,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/1.png"
-	},
-	{
-		"id": 2,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/26.jpg",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/17.jpg",
 		"additionalInstructors": [
 			{
 				"instructorId": 46,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/46.jpg"
 			},
 			{
-				"instructorId": 71,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/71.jpg"
-			},
-			{
-				"instructorId": 81,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/81.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial1Id": 5,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial3Id": 9,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/2.png"
-	},
-	{
-		"id": 3,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/14.jpg",
-		"additionalInstructors": [
-			{
 				"instructorId": 64,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/64.jpg"
+			},
+			{
+				"instructorId": 86,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/86.jpg"
 			}
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
 		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial2Id": 6,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/3.png"
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial2Id": 3,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial3Id": 5,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/1.png"
 	},
 	{
-		"id": 4,
-		"offeredBy": 4,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/42.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 43,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/43.jpg"
-			},
-			{
-				"instructorId": 72,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/72.jpg"
-			},
-			{
-				"instructorId": 83,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/83.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial1Id": 5,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial3Id": 6,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/4.png"
-	},
-	{
-		"id": 5,
-		"offeredBy": 2,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"id": 2,
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
 		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/32.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 96,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/96.jpg"
+				"instructorId": 67,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/67.jpg"
+			},
+			{
+				"instructorId": 68,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/68.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial1Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial2Id": 9,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/2.png"
+	},
+	{
+		"id": 3,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/15.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 88,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/88.jpg"
 			}
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
 		"testimonial1Id": 2,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial2Id": 4,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial3Id": 5,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/3.png"
+	},
+	{
+		"id": 4,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/25.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 85,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/85.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial1Id": 2,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial2Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/4.png"
+	},
+	{
+		"id": 5,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/25.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial1Id": 2,
 		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
 		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial3Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/5.png"
 	},
 	{
 		"id": 6,
-		"offeredBy": 4,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/9.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 69,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/69.jpg"
-			},
-			{
-				"instructorId": 99,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/99.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial1Id": 1,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial2Id": 8,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial3Id": 6,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/5.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial1Id": 3,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial2Id": 6,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial3Id": 8,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/6.png"
 	},
 	{
@@ -139,530 +126,31 @@
 		"offeredBy": 2,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/6.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial2Id": 8,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/7.png"
-	},
-	{
-		"id": 8,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/24.jpg",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/30.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 44,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/44.jpg"
-			},
-			{
-				"instructorId": 65,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/65.jpg"
-			},
-			{
-				"instructorId": 96,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/96.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial1Id": 1,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial2Id": 5,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial3Id": 2,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/8.png"
-	},
-	{
-		"id": 9,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/28.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 59,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/59.jpg"
-			},
-			{
-				"instructorId": 72,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/72.jpg"
-			},
-			{
-				"instructorId": 85,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/85.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial3Id": 5,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/9.png"
-	},
-	{
-		"id": 10,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/25.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 86,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/86.jpg"
-			},
-			{
-				"instructorId": 88,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/88.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/10.png"
-	},
-	{
-		"id": 11,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/22.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial2Id": 2,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/11.png"
-	},
-	{
-		"id": 12,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/5.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial1Id": 7,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial3Id": 8,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/12.png"
-	},
-	{
-		"id": 13,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/22.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 83,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/83.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial1Id": 9,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial2Id": 8,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/13.png"
-	},
-	{
-		"id": 14,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/31.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 66,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/66.jpg"
-			},
-			{
-				"instructorId": 75,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/75.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial1Id": 8,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial2Id": 6,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial3Id": 7,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/14.png"
-	},
-	{
-		"id": 15,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/19.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 66,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/66.jpg"
-			},
-			{
-				"instructorId": 77,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/77.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial1Id": 5,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/15.png"
-	},
-	{
-		"id": 16,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/42.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 81,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/81.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial1Id": 5,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial2Id": 4,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial3Id": 9,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/16.png"
-	},
-	{
-		"id": 17,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/36.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 47,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/47.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial3Id": 8,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/17.png"
-	},
-	{
-		"id": 18,
-		"offeredBy": 2,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/22.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 72,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/72.jpg"
-			},
-			{
-				"instructorId": 83,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/83.jpg"
-			},
-			{
-				"instructorId": 86,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/86.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial2Id": 4,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial3Id": 8,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/18.png"
-	},
-	{
-		"id": 19,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/24.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 80,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/80.jpg"
-			},
-			{
-				"instructorId": 90,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/90.jpg"
-			},
-			{
-				"instructorId": 95,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/95.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial3Id": 7,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/19.png"
-	},
-	{
-		"id": 20,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/8.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial1Id": 8,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/20.png"
-	},
-	{
-		"id": 21,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/29.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial1Id": 5,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial3Id": 6,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/21.png"
-	},
-	{
-		"id": 22,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/20.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 42,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/42.jpg"
-			},
-			{
-				"instructorId": 59,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/59.jpg"
-			},
-			{
-				"instructorId": 61,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/61.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial1Id": 1,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial2Id": 6,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial3Id": 7,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/22.png"
-	},
-	{
-		"id": 23,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/33.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 61,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/61.jpg"
-			},
-			{
-				"instructorId": 99,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/99.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial2Id": 5,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial3Id": 6,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/23.png"
-	},
-	{
-		"id": 24,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/34.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 58,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/58.jpg"
-			},
-			{
-				"instructorId": 71,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/71.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial1Id": 8,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial2Id": 2,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial3Id": 7,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/24.png"
-	},
-	{
-		"id": 25,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/17.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 62,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/62.jpg"
-			},
-			{
-				"instructorId": 78,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/78.jpg"
-			},
-			{
-				"instructorId": 96,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/96.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial2Id": 8,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/25.png"
-	},
-	{
-		"id": 26,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/34.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 47,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/47.jpg"
-			},
-			{
-				"instructorId": 99,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/99.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial1Id": 8,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/26.png"
-	},
-	{
-		"id": 27,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/40.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 69,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/69.jpg"
-			},
-			{
-				"instructorId": 73,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/73.jpg"
-			},
-			{
-				"instructorId": 79,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/79.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/27.png"
-	},
-	{
-		"id": 28,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/39.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 53,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/53.jpg"
-			},
-			{
-				"instructorId": 73,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/73.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial1Id": 9,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/28.png"
-	},
-	{
-		"id": 29,
-		"offeredBy": 4,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/33.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 49,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/49.jpg"
+				"instructorId": 55,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/55.jpg"
 			},
 			{
 				"instructorId": 63,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/63.jpg"
 			},
 			{
-				"instructorId": 76,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/76.jpg"
+				"instructorId": 86,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/86.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial1Id": 9,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial2Id": 8,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial3Id": 6,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/29.png"
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial2Id": 5,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial3Id": 8,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/7.png"
 	},
 	{
-		"id": 30,
+		"id": 8,
 		"offeredBy": 3,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
@@ -673,16 +161,387 @@
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/97.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial1Id": 7,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial2Id": 4,
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial1Id": 2,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial2Id": 1,
 		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
 		"testimonial3Id": 5,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/30.png"
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/8.png"
 	},
 	{
-		"id": 31,
+		"id": 9,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/28.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 73,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/73.jpg"
+			},
+			{
+				"instructorId": 91,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/91.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial1Id": 5,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial2Id": 7,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial3Id": 4,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/9.png"
+	},
+	{
+		"id": 10,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/29.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 65,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/65.jpg"
+			},
+			{
+				"instructorId": 87,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/87.jpg"
+			},
+			{
+				"instructorId": 99,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/99.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial1Id": 2,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial2Id": 4,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial3Id": 1,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/10.png"
+	},
+	{
+		"id": 11,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/30.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 59,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/59.jpg"
+			},
+			{
+				"instructorId": 69,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/69.jpg"
+			},
+			{
+				"instructorId": 85,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/85.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial2Id": 4,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/11.png"
+	},
+	{
+		"id": 12,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/39.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 52,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/52.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial1Id": 2,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial2Id": 1,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial3Id": 3,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/12.png"
+	},
+	{
+		"id": 13,
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/15.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 76,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/76.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial1Id": 3,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial2Id": 7,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/13.png"
+	},
+	{
+		"id": 14,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/7.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 58,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/58.jpg"
+			},
+			{
+				"instructorId": 67,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/67.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial1Id": 5,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial2Id": 3,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial3Id": 6,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/14.png"
+	},
+	{
+		"id": 15,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/39.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial1Id": 7,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial2Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/15.png"
+	},
+	{
+		"id": 16,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/34.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 49,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/49.jpg"
+			},
+			{
+				"instructorId": 61,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/61.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial1Id": 4,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial2Id": 2,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/16.png"
+	},
+	{
+		"id": 17,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/16.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 49,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/49.jpg"
+			},
+			{
+				"instructorId": 87,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/87.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial1Id": 4,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial2Id": 6,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial3Id": 1,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/17.png"
+	},
+	{
+		"id": 18,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/4.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 42,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/42.jpg"
+			},
+			{
+				"instructorId": 62,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/62.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial1Id": 8,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial2Id": 9,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial3Id": 1,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/18.png"
+	},
+	{
+		"id": 19,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/27.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 76,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/76.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial1Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial2Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial3Id": 5,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/19.png"
+	},
+	{
+		"id": 20,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/29.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 44,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/44.jpg"
+			},
+			{
+				"instructorId": 57,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/57.jpg"
+			},
+			{
+				"instructorId": 88,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/88.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial1Id": 9,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial2Id": 2,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial3Id": 6,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/20.png"
+	},
+	{
+		"id": 21,
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/8.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 82,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/82.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial1Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial2Id": 7,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/21.png"
+	},
+	{
+		"id": 22,
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/16.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 42,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/42.jpg"
+			},
+			{
+				"instructorId": 85,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/85.jpg"
+			},
+			{
+				"instructorId": 91,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/91.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial1Id": 4,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial2Id": 6,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/22.png"
+	},
+	{
+		"id": 23,
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/4.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 47,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/47.jpg"
+			},
+			{
+				"instructorId": 91,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/91.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial1Id": 2,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial2Id": 9,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial3Id": 1,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/23.png"
+	},
+	{
+		"id": 24,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/37.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 76,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/76.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial1Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial2Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/24.png"
+	},
+	{
+		"id": 25,
 		"offeredBy": 1,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
@@ -691,221 +550,164 @@
 			{
 				"instructorId": 49,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/49.jpg"
-			},
-			{
-				"instructorId": 52,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/52.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial1Id": 9,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial3Id": 8,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/31.png"
-	},
-	{
-		"id": 32,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/39.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial3Id": 5,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/32.png"
-	},
-	{
-		"id": 33,
-		"offeredBy": 4,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/6.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 52,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/52.jpg"
-			},
-			{
-				"instructorId": 59,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/59.jpg"
-			},
-			{
-				"instructorId": 66,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/66.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial1Id": 5,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial2Id": 4,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial3Id": 8,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/33.png"
-	},
-	{
-		"id": 34,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/8.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 49,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/49.jpg"
-			},
-			{
-				"instructorId": 51,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/51.jpg"
-			},
-			{
-				"instructorId": 92,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/92.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/34.png"
-	},
-	{
-		"id": 35,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/17.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 90,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/90.jpg"
 			}
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
 		"testimonial1Id": 1,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial3Id": 9,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/35.png"
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial2Id": 9,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial3Id": 8,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/25.png"
 	},
 	{
-		"id": 36,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/25.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 98,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/98.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial2Id": 3,
+		"id": 26,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/5.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial1Id": 7,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial2Id": 4,
 		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
 		"testimonial3Id": 6,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/36.png"
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/26.png"
 	},
 	{
-		"id": 37,
+		"id": 27,
 		"offeredBy": 1,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/38.jpg",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/8.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial1Id": 8,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial2Id": 3,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial3Id": 4,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/27.png"
+	},
+	{
+		"id": 28,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/7.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 95,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/95.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial1Id": 7,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial2Id": 3,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/28.png"
+	},
+	{
+		"id": 29,
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/6.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 58,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/58.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial1Id": 8,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial2Id": 1,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial3Id": 3,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/29.png"
+	},
+	{
+		"id": 30,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/32.jpg",
 		"additionalInstructors": [
 			{
 				"instructorId": 46,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/46.jpg"
 			},
 			{
-				"instructorId": 55,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/55.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial1Id": 9,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial2Id": 3,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial3Id": 6,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/37.png"
-	},
-	{
-		"id": 38,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/23.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 81,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/81.jpg"
+				"instructorId": 53,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/53.jpg"
 			}
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
 		"testimonial1Id": 2,
 		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
 		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial3Id": 8,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/38.png"
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/30.png"
 	},
 	{
-		"id": 39,
-		"offeredBy": 4,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/5.jpg",
+		"id": 31,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/4.jpg",
 		"additionalInstructors": [],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
 		"testimonial1Id": 5,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial2Id": 4,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial3Id": 7,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/39.png"
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial2Id": 1,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial3Id": 4,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/31.png"
 	},
 	{
-		"id": 40,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/39.jpg",
+		"id": 32,
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/41.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 58,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/58.jpg"
+				"instructorId": 64,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/64.jpg"
 			},
 			{
-				"instructorId": 90,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/90.jpg"
+				"instructorId": 97,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/97.jpg"
+			},
+			{
+				"instructorId": 99,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/99.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial2Id": 2,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial3Id": 6,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/40.png"
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial1Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial2Id": 1,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial3Id": 4,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/32.png"
 	},
 	{
-		"id": 41,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/3.jpg",
+		"id": 33,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/37.jpg",
 		"additionalInstructors": [
+			{
+				"instructorId": 43,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/43.jpg"
+			},
 			{
 				"instructorId": 66,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/66.jpg"
@@ -913,30 +715,176 @@
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
 		"testimonial1Id": 1,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial2Id": 2,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial3Id": 6,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/41.png"
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial2Id": 4,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/33.png"
 	},
 	{
-		"id": 42,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/24.jpg",
+		"id": 34,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/35.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial1Id": 7,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial2Id": 4,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial3Id": 5,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/34.png"
+	},
+	{
+		"id": 35,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/29.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 74,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/74.jpg"
+				"instructorId": 41,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/41.jpg"
+			},
+			{
+				"instructorId": 88,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/88.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial1Id": 4,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial2Id": 9,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial3Id": 6,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/35.png"
+	},
+	{
+		"id": 36,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/28.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial1Id": 9,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial2Id": 6,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial3Id": 3,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/36.png"
+	},
+	{
+		"id": 37,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/10.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial1Id": 5,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial2Id": 4,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial3Id": 1,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/37.png"
+	},
+	{
+		"id": 38,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/11.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 61,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/61.jpg"
+			},
+			{
+				"instructorId": 67,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/67.jpg"
+			},
+			{
+				"instructorId": 88,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/88.jpg"
 			}
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
 		"testimonial1Id": 2,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial2Id": 5,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial2Id": 3,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial3Id": 1,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/38.png"
+	},
+	{
+		"id": 39,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/11.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial2Id": 6,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/39.png"
+	},
+	{
+		"id": 40,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/36.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 46,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/46.jpg"
+			},
+			{
+				"instructorId": 97,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/97.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial1Id": 7,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial2Id": 9,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/40.png"
+	},
+	{
+		"id": 41,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/12.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial1Id": 4,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial2Id": 2,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial3Id": 8,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/41.png"
+	},
+	{
+		"id": 42,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/8.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial1Id": 8,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial2Id": 2,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/42.png"
 	},
 	{
@@ -944,141 +892,119 @@
 		"offeredBy": 3,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/34.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 52,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/52.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/43.png"
-	},
-	{
-		"id": 44,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/22.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 56,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/56.jpg"
-			},
-			{
-				"instructorId": 62,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/62.jpg"
-			},
-			{
-				"instructorId": 93,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/93.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/44.png"
-	},
-	{
-		"id": 45,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/39.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 56,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/56.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial1Id": 1,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial2Id": 6,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/45.png"
-	},
-	{
-		"id": 46,
-		"offeredBy": 2,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/10.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 41,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/41.jpg"
-			},
-			{
-				"instructorId": 45,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/45.jpg"
-			},
-			{
-				"instructorId": 80,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/80.jpg"
-			}
-		],
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/21.jpg",
+		"additionalInstructors": [],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
 		"testimonial1Id": 8,
 		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
 		"testimonial2Id": 4,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/46.png"
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial3Id": 5,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/43.png"
 	},
 	{
-		"id": 47,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/23.jpg",
+		"id": 44,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/27.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 74,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/74.jpg"
+				"instructorId": 40,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/40.jpg"
+			},
+			{
+				"instructorId": 68,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/68.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial2Id": 5,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/47.png"
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial2Id": 9,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial3Id": 8,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/44.png"
 	},
 	{
-		"id": 48,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"id": 45,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
 		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/26.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 47,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/47.jpg"
+				"instructorId": 42,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/42.jpg"
 			},
 			{
-				"instructorId": 63,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/63.jpg"
+				"instructorId": 88,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/88.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial1Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial2Id": 5,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/45.png"
+	},
+	{
+		"id": 46,
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/37.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 84,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/84.jpg"
 			},
 			{
-				"instructorId": 82,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/82.jpg"
+				"instructorId": 89,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/89.jpg"
 			}
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
 		"testimonial1Id": 5,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial2Id": 7,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/46.png"
+	},
+	{
+		"id": 47,
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/39.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial1Id": 5,
 		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
 		"testimonial2Id": 6,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/47.png"
+	},
+	{
+		"id": 48,
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/11.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 54,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/54.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial2Id": 9,
 		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
 		"testimonial3Id": 4,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/48.png"
@@ -1088,336 +1014,440 @@
 		"offeredBy": 0,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/20.jpg",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/4.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 76,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/76.jpg"
+				"instructorId": 57,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/57.jpg"
 			},
 			{
-				"instructorId": 99,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/99.jpg"
+				"instructorId": 86,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/86.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial2Id": 5,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial2Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/49.png"
 	},
 	{
 		"id": 50,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/33.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial2Id": 2,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/5.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 97,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/97.jpg"
+			},
+			{
+				"instructorId": 98,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/98.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial2Id": 6,
 		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
 		"testimonial3Id": 3,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/50.png"
 	},
 	{
 		"id": 51,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/25.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 62,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/62.jpg"
-			},
-			{
-				"instructorId": 87,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/87.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial1Id": 1,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial2Id": 3,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial3Id": 7,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/51.png"
-	},
-	{
-		"id": 52,
-		"offeredBy": 2,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/28.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial3Id": 9,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/52.png"
-	},
-	{
-		"id": 53,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/38.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 88,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/88.jpg"
-			},
-			{
-				"instructorId": 93,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/93.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial2Id": 2,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/53.png"
-	},
-	{
-		"id": 54,
-		"offeredBy": 4,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/11.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 95,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/95.jpg"
-			},
-			{
-				"instructorId": 97,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/97.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial2Id": 4,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial3Id": 9,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/54.png"
-	},
-	{
-		"id": 55,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/17.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 45,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/45.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial2Id": 2,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/55.png"
-	},
-	{
-		"id": 56,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/3.jpg",
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/30.jpg",
 		"additionalInstructors": [
 			{
 				"instructorId": 53,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/53.jpg"
+			},
+			{
+				"instructorId": 74,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/74.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial1Id": 7,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial2Id": 3,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/51.png"
+	},
+	{
+		"id": 52,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/23.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 51,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/51.jpg"
+			},
+			{
+				"instructorId": 75,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/75.jpg"
+			},
+			{
+				"instructorId": 84,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/84.jpg"
 			}
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
 		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial2Id": 3,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial2Id": 5,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial3Id": 3,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/52.png"
+	},
+	{
+		"id": 53,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/14.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial2Id": 2,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/53.png"
+	},
+	{
+		"id": 54,
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/14.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 49,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/49.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial1Id": 5,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial2Id": 2,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial3Id": 3,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/54.png"
+	},
+	{
+		"id": 55,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/24.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 71,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/71.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial1Id": 4,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial2Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial3Id": 6,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/55.png"
+	},
+	{
+		"id": 56,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/10.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial1Id": 8,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial2Id": 5,
 		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
 		"testimonial3Id": 7,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/56.png"
 	},
 	{
 		"id": 57,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/6.jpg",
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/42.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 89,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/89.jpg"
+				"instructorId": 71,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/71.jpg"
+			},
+			{
+				"instructorId": 95,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/95.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial1Id": 7,
 		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
 		"testimonial2Id": 6,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial3Id": 5,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/57.png"
 	},
 	{
 		"id": 58,
-		"offeredBy": 4,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/24.jpg",
-		"additionalInstructors": [],
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/27.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 91,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/91.jpg"
+			}
+		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
 		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial2Id": 8,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial3Id": 5,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial2Id": 2,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/58.png"
 	},
 	{
 		"id": 59,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/34.jpg",
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/23.jpg",
 		"additionalInstructors": [
 			{
 				"instructorId": 45,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/45.jpg"
+			},
+			{
+				"instructorId": 88,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/88.jpg"
+			},
+			{
+				"instructorId": 98,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/98.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial1Id": 8,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial3Id": 5,
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial1Id": 2,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial2Id": 5,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial3Id": 1,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/59.png"
 	},
 	{
 		"id": 60,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/16.jpg",
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/29.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 48,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/48.jpg"
+				"instructorId": 66,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/66.jpg"
 			},
 			{
-				"instructorId": 56,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/56.jpg"
+				"instructorId": 94,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/94.jpg"
 			},
 			{
-				"instructorId": 68,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/68.jpg"
+				"instructorId": 97,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/97.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial3Id": 8,
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial1Id": 2,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial2Id": 3,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial3Id": 4,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/60.png"
 	},
 	{
 		"id": 61,
-		"offeredBy": 4,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/31.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 43,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/43.jpg"
-			},
-			{
-				"instructorId": 49,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/49.jpg"
-			},
-			{
-				"instructorId": 100,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/100.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial2Id": 5,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial3Id": 2,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/61.png"
-	},
-	{
-		"id": 62,
 		"offeredBy": 3,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/37.jpg",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/26.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 67,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/67.jpg"
+				"instructorId": 90,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/90.jpg"
 			},
 			{
 				"instructorId": 92,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/92.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial1Id": 9,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial2Id": 1,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/61.png"
+	},
+	{
+		"id": 62,
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/31.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 58,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/58.jpg"
+			},
+			{
+				"instructorId": 68,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/68.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial1Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial2Id": 3,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial3Id": 1,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/62.png"
 	},
 	{
 		"id": 63,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/38.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 60,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/60.jpg"
-			},
-			{
-				"instructorId": 65,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/65.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial1Id": 5,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial2Id": 6,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial3Id": 7,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/6.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial1Id": 9,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial2Id": 3,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial3Id": 4,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/63.png"
 	},
 	{
 		"id": 64,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/14.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 51,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/51.jpg"
+			},
+			{
+				"instructorId": 94,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/94.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial1Id": 5,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial2Id": 9,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/64.png"
+	},
+	{
+		"id": 65,
 		"offeredBy": 4,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/26.jpg",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/8.jpg",
 		"additionalInstructors": [
 			{
 				"instructorId": 56,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/56.jpg"
+			},
+			{
+				"instructorId": 89,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/89.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial1Id": 5,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial2Id": 2,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/65.png"
+	},
+	{
+		"id": 66,
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/9.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 41,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/41.jpg"
+			},
+			{
+				"instructorId": 42,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/42.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial1Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial2Id": 7,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial3Id": 3,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/66.png"
+	},
+	{
+		"id": 67,
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/40.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 64,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/64.jpg"
+			},
+			{
+				"instructorId": 87,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/87.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial1Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial2Id": 7,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial3Id": 4,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/67.png"
+	},
+	{
+		"id": 68,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/36.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 58,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/58.jpg"
 			},
 			{
 				"instructorId": 64,
@@ -1428,104 +1458,63 @@
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/80.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial2Id": 3,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/64.png"
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial1Id": 4,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial2Id": 7,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/68.png"
 	},
 	{
-		"id": 65,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/33.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 47,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/47.jpg"
-			},
-			{
-				"instructorId": 65,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/65.jpg"
-			},
-			{
-				"instructorId": 98,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/98.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial1Id": 9,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/65.png"
-	},
-	{
-		"id": 66,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/13.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 79,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/79.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial1Id": 7,
+		"id": 69,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/6.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial1Id": 8,
 		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
 		"testimonial2Id": 5,
 		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
 		"testimonial3Id": 9,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/66.png"
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/69.png"
 	},
 	{
-		"id": 67,
-		"offeredBy": 4,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"id": 70,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/19.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 62,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/62.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial1Id": 7,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial2Id": 6,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/70.png"
+	},
+	{
+		"id": 71,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
 		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/5.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 41,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/41.jpg"
-			},
-			{
-				"instructorId": 46,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/46.jpg"
+				"instructorId": 68,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/68.jpg"
 			},
 			{
 				"instructorId": 73,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/73.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial1Id": 2,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial3Id": 8,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/67.png"
-	},
-	{
-		"id": 68,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/26.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 51,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/51.jpg"
-			},
-			{
-				"instructorId": 63,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/63.jpg"
 			}
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
@@ -1534,172 +1523,114 @@
 		"testimonial2Id": 2,
 		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
 		"testimonial3Id": 6,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/68.png"
-	},
-	{
-		"id": 69,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/14.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial1Id": 9,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial3Id": 2,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/69.png"
-	},
-	{
-		"id": 70,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/12.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 68,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/68.jpg"
-			},
-			{
-				"instructorId": 94,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/94.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial1Id": 7,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial2Id": 8,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial3Id": 3,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/70.png"
-	},
-	{
-		"id": 71,
-		"offeredBy": 2,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/27.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 41,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/41.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial3Id": 2,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/71.png"
 	},
 	{
 		"id": 72,
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/35.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 96,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/96.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial2Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/72.png"
+	},
+	{
+		"id": 73,
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/6.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 85,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/85.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial1Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial2Id": 7,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial3Id": 1,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/73.png"
+	},
+	{
+		"id": 74,
+		"offeredBy": 2,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/14.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 76,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/76.jpg"
+			},
+			{
+				"instructorId": 83,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/83.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial1Id": 3,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial2Id": 1,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/74.png"
+	},
+	{
+		"id": 75,
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/35.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 43,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/43.jpg"
+			},
+			{
+				"instructorId": 84,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/84.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial1Id": 8,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial2Id": 5,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial3Id": 4,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/75.png"
+	},
+	{
+		"id": 76,
 		"offeredBy": 1,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
 		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/41.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 89,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/89.jpg"
+				"instructorId": 56,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/56.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial1Id": 2,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/72.png"
-	},
-	{
-		"id": 73,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/14.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 48,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/48.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial2Id": 6,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial3Id": 2,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/73.png"
-	},
-	{
-		"id": 74,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/15.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 63,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/63.jpg"
-			},
-			{
-				"instructorId": 68,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/68.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial1Id": 2,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial2Id": 4,
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial1Id": 9,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial2Id": 1,
 		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
 		"testimonial3Id": 6,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/74.png"
-	},
-	{
-		"id": 75,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/17.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 40,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/40.jpg"
-			},
-			{
-				"instructorId": 57,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/57.jpg"
-			},
-			{
-				"instructorId": 79,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/79.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial1Id": 2,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial2Id": 3,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/75.png"
-	},
-	{
-		"id": 76,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/13.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial1Id": 2,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial2Id": 3,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/76.png"
 	},
 	{
@@ -1707,27 +1638,19 @@
 		"offeredBy": 5,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/16.jpg",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/33.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 42,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/42.jpg"
-			},
-			{
-				"instructorId": 44,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/44.jpg"
-			},
-			{
-				"instructorId": 78,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/78.jpg"
+				"instructorId": 53,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/53.jpg"
 			}
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
 		"testimonial1Id": 2,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial3Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial2Id": 6,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial3Id": 5,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/77.png"
 	},
 	{
@@ -1735,102 +1658,121 @@
 		"offeredBy": 2,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/31.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial2Id": 7,
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/39.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 94,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/94.jpg"
+			},
+			{
+				"instructorId": 97,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/97.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial1Id": 7,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial2Id": 5,
 		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
 		"testimonial3Id": 1,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/78.png"
 	},
 	{
 		"id": 79,
-		"offeredBy": 2,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/38.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 56,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/56.jpg"
-			},
-			{
-				"instructorId": 59,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/59.jpg"
-			},
-			{
-				"instructorId": 93,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/93.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial1Id": 5,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/18.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial1Id": 2,
 		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
 		"testimonial2Id": 6,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial3Id": 9,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial3Id": 8,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/79.png"
 	},
 	{
 		"id": 80,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/21.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial1Id": 8,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial2Id": 6,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/25.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 43,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/43.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial1Id": 2,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial2Id": 4,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/80.png"
 	},
 	{
 		"id": 81,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/8.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial2Id": 3,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/24.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 52,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/52.jpg"
+			},
+			{
+				"instructorId": 69,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/69.jpg"
+			},
+			{
+				"instructorId": 96,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/96.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial1Id": 8,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial2Id": 7,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial3Id": 1,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/81.png"
 	},
 	{
 		"id": 82,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/27.jpg",
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/24.jpg",
 		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial2Id": 5,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial3Id": 6,
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial1Id": 2,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial2Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial3Id": 5,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/82.png"
 	},
 	{
 		"id": 83,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/4.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial1Id": 1,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial2Id": 8,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial3Id": 9,
+		"offeredBy": 1,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/18.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 85,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/85.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial1Id": 8,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial2Id": 3,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial3Id": 6,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/83.png"
 	},
 	{
@@ -1838,139 +1780,74 @@
 		"offeredBy": 1,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/35.jpg",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/10.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 40,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/40.jpg"
-			},
-			{
-				"instructorId": 61,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/61.jpg"
-			},
-			{
-				"instructorId": 85,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/85.jpg"
+				"instructorId": 68,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/68.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial1Id": 9,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial2Id": 8,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial3Id": 5,
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial1Id": 4,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial2Id": 5,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/84.png"
 	},
 	{
 		"id": 85,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/6.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 41,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/41.jpg"
-			},
-			{
-				"instructorId": 88,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/88.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial1Id": 1,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial2Id": 9,
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/22.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial1Id": 8,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial2Id": 6,
 		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
 		"testimonial3Id": 5,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/85.png"
 	},
 	{
 		"id": 86,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/27.jpg",
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/19.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 43,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/43.jpg"
+				"instructorId": 64,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/64.jpg"
 			},
 			{
-				"instructorId": 92,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/92.jpg"
-			},
-			{
-				"instructorId": 98,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/98.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial2Id": 6,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial3Id": 5,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/86.png"
-	},
-	{
-		"id": 87,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/9.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 79,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/79.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial2Id": 4,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial3Id": 2,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/87.png"
-	},
-	{
-		"id": 88,
-		"offeredBy": 2,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/25.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 80,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/80.jpg"
-			},
-			{
-				"instructorId": 91,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/91.jpg"
+				"instructorId": 71,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/71.jpg"
 			}
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
 		"testimonial1Id": 2,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial2Id": 4,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial3Id": 8,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/88.png"
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial2Id": 5,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial3Id": 3,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/86.png"
 	},
 	{
-		"id": 89,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/8.jpg",
+		"id": 87,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/28.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 41,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/41.jpg"
+				"instructorId": 55,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/55.jpg"
 			},
 			{
-				"instructorId": 60,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/60.jpg"
+				"instructorId": 64,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/64.jpg"
 			},
 			{
 				"instructorId": 66,
@@ -1979,25 +1856,73 @@
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
 		"testimonial1Id": 8,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial2Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial2Id": 2,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/87.png"
+	},
+	{
+		"id": 88,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/19.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
+		"testimonial1Id": 5,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial2Id": 2,
 		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
 		"testimonial3Id": 3,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/88.png"
+	},
+	{
+		"id": 89,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/12.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 50,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/50.jpg"
+			},
+			{
+				"instructorId": 55,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/55.jpg"
+			},
+			{
+				"instructorId": 84,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/84.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial2Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/89.png"
 	},
 	{
 		"id": 90,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/18.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial2Id": 2,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
+		"offeredBy": 4,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/3.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 100,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/100.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial2Id": 3,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/90.png"
 	},
 	{
@@ -2005,130 +1930,27 @@
 		"offeredBy": 1,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/3.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial1Id": 7,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial2Id": 6,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial3Id": 5,
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/40.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 78,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/78.jpg"
+			},
+			{
+				"instructorId": 97,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/97.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial1Id": 3,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial2Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial3Id": 7,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/91.png"
 	},
 	{
 		"id": 92,
-		"offeredBy": 4,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/PennMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/42.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial1Id": 5,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial2Id": 8,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/92.png"
-	},
-	{
-		"id": 93,
-		"offeredBy": 0,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/27.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial1Id": 5,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial2Id": 3,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/93.png"
-	},
-	{
-		"id": 94,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/29.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/5.jpg",
-		"testimonial2Id": 5,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial3Id": 7,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/94.png"
-	},
-	{
-		"id": 95,
-		"offeredBy": 5,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/19.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 49,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/49.jpg"
-			},
-			{
-				"instructorId": 67,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/67.jpg"
-			},
-			{
-				"instructorId": 92,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/92.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
-		"testimonial1Id": 7,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/95.png"
-	},
-	{
-		"id": 96,
-		"offeredBy": 3,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/9.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
-		"testimonial1Id": 3,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/96.png"
-	},
-	{
-		"id": 97,
-		"offeredBy": 1,
-		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAAbout.png",
-		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/EURAMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/14.jpg",
-		"additionalInstructors": [
-			{
-				"instructorId": 97,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/97.jpg"
-			},
-			{
-				"instructorId": 98,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/98.jpg"
-			}
-		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
-		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial3Id": 4,
-		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/97.png"
-	},
-	{
-		"id": 98,
 		"offeredBy": 0,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
@@ -2137,14 +1959,127 @@
 			{
 				"instructorId": 70,
 				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/70.jpg"
+			},
+			{
+				"instructorId": 73,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/73.jpg"
+			},
+			{
+				"instructorId": 87,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/87.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial2Id": 7,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial3Id": 8,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/92.png"
+	},
+	{
+		"id": 93,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/17.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
+		"testimonial2Id": 8,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial3Id": 6,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/93.png"
+	},
+	{
+		"id": 94,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/41.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 92,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/92.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial1Id": 6,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial2Id": 4,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/94.png"
+	},
+	{
+		"id": 95,
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/34.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 98,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/98.jpg"
 			}
 		],
 		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
 		"testimonial1Id": 1,
 		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
 		"testimonial2Id": 9,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial3Id": 2,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial3Id": 3,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/95.png"
+	},
+	{
+		"id": 96,
+		"offeredBy": 5,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/UVAMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/36.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 53,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/53.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial1Id": 7,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial2Id": 6,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial3Id": 9,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/96.png"
+	},
+	{
+		"id": 97,
+		"offeredBy": 0,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/DeepLearningMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/23.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial1Id": 3,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial2Id": 1,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
+		"testimonial3Id": 6,
+		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/97.png"
+	},
+	{
+		"id": 98,
+		"offeredBy": 3,
+		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
+		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/28.jpg",
+		"additionalInstructors": [],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial1Id": 9,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial2Id": 4,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial3Id": 3,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/98.png"
 	},
 	{
@@ -2152,23 +2087,27 @@
 		"offeredBy": 2,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IBMMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/36.jpg",
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/33.jpg",
 		"additionalInstructors": [
 			{
-				"instructorId": 62,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/62.jpg"
+				"instructorId": 42,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/42.jpg"
 			},
 			{
-				"instructorId": 72,
-				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/72.jpg"
+				"instructorId": 55,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/55.jpg"
+			},
+			{
+				"instructorId": 57,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/57.jpg"
 			}
 		],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial1Id": 6,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
-		"testimonial2Id": 2,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
-		"testimonial3Id": 1,
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/7.jpg",
+		"testimonial1Id": 7,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/9.jpg",
+		"testimonial2Id": 9,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/2.jpg",
+		"testimonial3Id": 2,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/99.png"
 	},
 	{
@@ -2176,14 +2115,23 @@
 		"offeredBy": 3,
 		"offeredByAbout": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisAbout.png",
 		"offeredByMain": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/offeredByAbouts/IllinoisMain.png",
-		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/30.jpg",
-		"additionalInstructors": [],
-		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
-		"testimonial1Id": 4,
-		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/8.jpg",
-		"testimonial2Id": 8,
-		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/6.jpg",
-		"testimonial3Id": 6,
+		"primaryInstructor": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/35.jpg",
+		"additionalInstructors": [
+			{
+				"instructorId": 43,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/43.jpg"
+			},
+			{
+				"instructorId": 59,
+				"instructorImage": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/59.jpg"
+			}
+		],
+		"testimonial1Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/1.jpg",
+		"testimonial1Id": 1,
+		"testimonial2Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/4.jpg",
+		"testimonial2Id": 4,
+		"testimonial3Image": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/testimonials/3.jpg",
+		"testimonial3Id": 3,
 		"courseIcon": "https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/courseIcons/100.png"
 	}
 ]

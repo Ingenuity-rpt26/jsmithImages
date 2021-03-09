@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
-const syllabusesData = require('../../data/syllabuses.json');
+const syllabusesData = require('../data/syllabuses.json');
 
 let syllabusesInsert = () => {
-  mongoose.connect('mongodb://localhost/syllabuses', { useNewUrlParser: true, useUnifiedTopology: true });
+  mongoose.connect('mongodb://127.0.0.1/syllabuses', { useNewUrlParser: true, useUnifiedTopology: true });
 
   const db = mongoose.connection;
   db.on('error', console.error.bind(console, 'syllabuses connection error'));
@@ -46,8 +46,8 @@ let syllabusesInsert = () => {
       console.error(err);
     }
     console.log('Syllabus success');
-    process.exit();
+    mongoose.connection.close()
   })
 };
 
-syllabusesInsert();
+module.exports.syllabusesInsert = syllabusesInsert;

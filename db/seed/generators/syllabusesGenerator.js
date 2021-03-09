@@ -1,7 +1,7 @@
 const faker = require('faker');
 const fs = require('fs')
 
-function generateSyllabus() {
+module.exports.generateSyllabuses = () => {
   let syllabuses = [];
 
   //creates syllabuses for each of the 100 courses
@@ -126,9 +126,6 @@ function generateSyllabus() {
     syllabuses.push(syllabus);
   }
 
-  return syllabuses;
-}
-
-let dataObj = generateSyllabus();
-
-fs.writeFileSync('../data/syllabuses.json', JSON.stringify(dataObj, null, '\t'));
+  fs.writeFileSync('../data/syllabuses.json', JSON.stringify(syllabuses, null, '\t'));
+  return;
+};
