@@ -8,7 +8,8 @@
     "node": ">=6.13.0"
   },
   "scripts": {
-    "run": "nodemon"
+    "run": "nodemon",
+    "test": "jest"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.13.9",
