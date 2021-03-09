@@ -38,4 +38,5 @@ let instructorsInsert = () => {
   })
 };
 
+
 module.exports.instructorsInsert = instructorsInsert;

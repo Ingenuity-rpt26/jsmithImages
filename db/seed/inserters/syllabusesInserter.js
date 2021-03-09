@@ -50,4 +50,5 @@ let syllabusesInsert = () => {
   })
 };
 
+
 module.exports.syllabusesInsert = syllabusesInsert;

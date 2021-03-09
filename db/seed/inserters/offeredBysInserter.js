@@ -27,4 +27,5 @@ let offeredBysInsert = () => {
   })
 };
 
+
 module.exports.offeredBysInsert = offeredBysInsert;
