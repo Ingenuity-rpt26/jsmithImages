@@ -45,6 +45,7 @@ describe('imagesGenerator outputs data in the proper format', () => {
     expect(typeof imagesData[0].testimonial3Image).toBe('string');
     expect(typeof imagesData[0].testimonial3Id).toBe('number');
     expect(typeof imagesData[0].courseIcon).toBe('string');
+    expect(imagesData.length).toBe(100);
   })
 })
 
@@ -58,6 +59,7 @@ describe('offeredBysGenerator outputs data in the proper format', () => {
     expect(typeof offeredBysData[0].offeredByName).toBe('string');
     expect(offeredByNames.indexOf(offeredBysData[0].offeredByName)).toBeGreaterThan(-1);
     expect(typeof offeredBysData[0].offeredByDescription).toBe('string');
+    expect(offeredBysData.length).toBe(100);
   })
 })
 
@@ -88,6 +90,7 @@ describe('syllabusesGenerator outputs data in the proper format', () => {
     expect(typeof syllabusesData[0].weeks[0].exercises[0].exerciseLengthMinutes).toBe('number');
     expect(typeof syllabusesData[0].hoursToCompleteCourse).toBe('number');
     expect(typeof syllabusesData[0].weeks[0].exercisesLength).toBe('number');
+    expect(syllabusesData.length).toBe(100);
   })
 })
 
@@ -98,5 +101,6 @@ describe('testimonialsGenerator outputs data in the proper format', () => {
     expect(typeof testimonialsData[0].id).toBe('number');
     expect(typeof testimonialsData[0].name).toBe('string');
     expect(typeof testimonialsData[0].testimonialText).toBe('string');
+    expect(testimonialsData.length).toBe(100);
   })
 })
