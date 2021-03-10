@@ -17,7 +17,7 @@ module.exports.generateImages = () => {
   for (let instructor of instructors) {
     for (let i = 0; i < instructor.courses.length; i++) {
       if (instructor.courses[i].isPrimaryInstructor) {
-        primaryInstructorsObj[instructor.courses[i].courseNumber] = instructor.id
+        primaryInstructorsObj[instructor.courses[i].courseNumber] = instructor.id;
       } else {
         additionalInstructorsObj[instructor.courses[i].courseNumber].push(instructor.id);
       }
@@ -34,7 +34,7 @@ module.exports.generateImages = () => {
       let URL = {
         instructorId: additionalInstructorsObj[id][i],
         instructorImage: `https://rpt26-ingenuity.s3-us-west-1.amazonaws.com/instructors/${additionalInstructorsObj[id][i]}.jpg`
-      }
+      };
       additionalInstructors.push(URL);
     }
 
