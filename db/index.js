@@ -26,8 +26,17 @@ module.exports.findOneImage = (courseNumber, imageName, cb) => {
   })
 }
 
-
-
+module.exports.findAllImages = (courseNumber, cb) => {
+  Images.findOne({ id: courseNumber })
+  .then((data) => {
+    cb(data);
+  })
+  .catch((err) => {
+    if(err) {
+      console.error(err);
+    }
+  })
+}
 
 
 
