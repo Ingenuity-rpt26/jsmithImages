@@ -6,7 +6,6 @@ const svgs = require('./svgs.js');
 const app = express();
 const port = 3006;
 
-
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(express.static(__dirname + '/../client/dist'));
@@ -26,7 +25,6 @@ app.get('/api/images/:courseNumber', (req, res) => {
 app.get('/api/svg/:svgName', (req, res) => {
   res.send(svgs[req.params.svgName]);
 })
-
 
 app.get('/api/svgs', (req, res) => {
   res.send(svgs);

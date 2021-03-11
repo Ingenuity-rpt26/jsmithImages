@@ -20,5 +20,6 @@ module.exports = {
       }
     ]
   },
+  devtool: 'eval',
   plugins: [new HtmlWebpackPlugin({ template: path.resolve(__dirname, 'public', 'index.html') })]
 };
