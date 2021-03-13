@@ -10,22 +10,22 @@ let offeredBysInsert = () => {
     console.log('offeredBys connected to db');
   });
 
-  const offeredBySchema = new mongoose.Schema({
+  const offeredBysSchema = new mongoose.Schema({
     id: Number,
     offeredByName: String,
     offeredByDescription: String
-  }, { collection: 'offeredBys' });
+  }, { collection: 'offeredbys' });
 
-  const OfferedBy = mongoose.model('OfferedBy', offeredBySchema);
+  const OfferedBys = mongoose.model('offeredbys', offeredBysSchema);
 
-  OfferedBy.insertMany(offeredBysData, (err) => {
+  OfferedBys.insertMany(offeredBysData, (err) => {
     if (err) {
       console.error(err);
     }
     console.log('OfferedBys success');
-    mongoose.connection.close()
-  })
+    mongoose.connection.close();
+  });
 };
 
-
+offeredBysInsert();
 module.exports.offeredBysInsert = offeredBysInsert;

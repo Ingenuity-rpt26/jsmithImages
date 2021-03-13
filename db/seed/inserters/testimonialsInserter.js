@@ -7,7 +7,7 @@ let testimonialsInsert = () => {
   const db = mongoose.connection;
   db.on('error', console.error.bind(console, 'testimonials connection error'));
   db.once('open', () => {
-    console.log('testimonials connected to db');
+    console.log('Testimonials service connected to db');
   });
 
   const testimonialSchema = new mongoose.Schema({
@@ -23,8 +23,8 @@ let testimonialsInsert = () => {
       console.error(err);
     }
     console.log('Testimonials success');
-    mongoose.connection.close()
-  })
+    mongoose.connection.close();
+  });
 };
 
 
