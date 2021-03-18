@@ -3,7 +3,6 @@ const db = require('../db/index.js');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const svgs = require('./svgs.js');
-
 const app = express();
 const port = 3006;
 
@@ -29,8 +28,6 @@ app.get('/api/svg/:svgName', (req, res) => {
 });
 
 app.get('/api/svgs', (req, res) => {
-  // console.log('typeof svgs: ', typeof svgs);
-  // console.log('svgs: ', svgs);
   res.send(JSON.stringify(svgs));
 });
 

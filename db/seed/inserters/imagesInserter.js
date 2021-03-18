@@ -7,7 +7,7 @@ let imagesInsert = () => {
   const db = mongoose.connection;
   db.on('error', console.error.bind(console, 'images connection error'));
   db.once('open', () => {
-    console.log('images connected to db');
+    console.log('imagesInsert connected to db');
   });
 
   const imageSchema = new mongoose.Schema({
@@ -35,7 +35,7 @@ let imagesInsert = () => {
     if (err) {
       console.error(err);
     }
-    console.log('Images success');
+    console.log('imagesInsert success');
     db.close();
   })
 };
