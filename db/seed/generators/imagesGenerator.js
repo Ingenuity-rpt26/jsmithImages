@@ -2,6 +2,7 @@ const faker = require('faker');
 const fs = require('fs');
 const instructors = require('../data/instructors.json');
 const offeredBysData = require('../data/offeredBys.json');
+const path = require('path');
 
 const generateImages = () => {
   let images = [];
@@ -71,7 +72,7 @@ const generateImages = () => {
     };
     images.push(image);
   }
-  fs.writeFileSync('../data/images.json', JSON.stringify(images, null, '\t'));
+  fs.writeFileSync('./db/seed/data/images.json', JSON.stringify(images, null, '\t'));
   return;
 };
 
