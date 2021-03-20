@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const imagesData = require('../data/images.json');
 
-let imagesInsert = () => {
+const imagesInsert = () => {
   mongoose.connect('mongodb://127.0.0.1/images', { useNewUrlParser: true, useUnifiedTopology: true });
 
   const db = mongoose.connection;
@@ -40,5 +40,5 @@ let imagesInsert = () => {
   })
 };
 
-
+imagesInsert();
 module.exports.imagesInsert = imagesInsert;

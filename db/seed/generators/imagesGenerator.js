@@ -3,8 +3,7 @@ const fs = require('fs');
 const instructors = require('../data/instructors.json');
 const offeredBysData = require('../data/offeredBys.json');
 
-
-module.exports.generateImages = () => {
+const generateImages = () => {
   let images = [];
   let offeredBys = ['DeepLearning', 'EURA', 'IBM', 'Illinois', 'Penn', 'UVA'];
 
@@ -76,4 +75,5 @@ module.exports.generateImages = () => {
   return;
 };
 
-
+generateImages();
+module.exports.generateImages = generateImages;

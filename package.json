@@ -8,6 +8,8 @@
     "node": ">=6.13.0"
   },
   "scripts": {
+    "generate": "node ./db/seed/generators/imagesGenerator.js",
+    "insert": "node ./db/seed/inserters/imagesInserter.js",
     "run": "nodemon",
     "react-dev": "webpack --watch",
     "start": "nodemon ./server/index.js"
