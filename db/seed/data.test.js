@@ -1,7 +1,7 @@
 const imagesData = require('../data/images.json');
 
 //data needs to be generated prior to running tests
-describe('imagesGenerator outputs data in the proper format', () => {
+describe('imagesSeed outputs data in the proper format', () => {
   test('imagesData should be an object with the correct properties', () => {
     expect(typeof imagesData).toBe('object');
     expect(typeof imagesData[0]).toBe('object');
