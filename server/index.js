@@ -11,6 +11,10 @@ app.use(bodyParser.json());
 app.use(express.static(__dirname + '/../client/dist'));
 app.use(cors());
 
+//app.use((req, res) => {
+//  console.log('req.params: ', req.params);
+//});
+
 app.get('/api/image/:courseNumber/:imageName', function (req, res) {
   db.findOneImage(req.params.courseNumber, req.params.imageName, (image) => {
     res.send(image);
