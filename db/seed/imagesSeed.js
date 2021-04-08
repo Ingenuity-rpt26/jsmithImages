@@ -9,6 +9,7 @@ const fetch = require('node-fetch');
 const imagesModel = require('./models/imagesModel');
 
 const instructorsPort = 3003;
+const instructorsIp = '54.176.19.199';
 
 const generateImages = () => {
   const images = [];
@@ -16,11 +17,11 @@ const generateImages = () => {
   let instructors = [];
   let offeredBysData = [];
 
-  fetch(`http://127.0.0.1:${instructorsPort}/api/allinstructors`)
+  fetch(`http://${instructorsIp}:${instructorsPort}/api/allinstructors`)
     .then((instructorsResponse) => instructorsResponse.json())
     .then((instructorsJSON) => {
       instructors = instructorsJSON;
-      return fetch(`http://127.0.0.1:${instructorsPort}/api/offeredByAll`);
+      return fetch(`http://${instructorsIp}:${instructorsPort}/api/offeredByAll`);
     })
     .then((offeredByResponse) => offeredByResponse.json())
     .then((offeredByJSON) => {

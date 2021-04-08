@@ -17,21 +17,21 @@
 
 ## Usage
 
-<span style="color:red"> Images service seed script needs Instructors and OfferedBys data to write the correct data </span>
+<span style="color:red"> Images service seed script needs Instructors service to be online to write the correct data </span>
 
-I made some decisions early on that aren't easily fixed.  The workaround for it is:
+To seed:
 
->  Generate data for the Instructors service.
+    Ensure Instructors service is online.
 
-> Copy <u>jsmithInstructorsService/db/data/instructors.json</u> and <u>jsmithInstructorsService/db/data/offeredBys.json</u> into the jsmithImages/db/data folder
+    Ensure IP and port variables are correct on lines 11 and 12 of ./db/seed/imagesSeed.js
 
-> Run "npm run generate"
+    > npm install
 
-> Run "npm run test"
+    > npm run seed
 
-> Once generate is complete, run "npm run insert"
+To run:
 
-The only downside that I can see to this method is that if you generate new Instructors data, the OfferedBy images might not match the text (ex: Penn State image for IBM offeredBy).
+    > npm start
 
 ## Requirements
 
