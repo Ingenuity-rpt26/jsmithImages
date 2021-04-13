@@ -1,3 +1,4 @@
+/* eslint-disable no-plusplus */
 /* eslint-disable no-undef */
 const imagesData = require('./data/images.json');
 
@@ -11,9 +12,19 @@ describe('imagesSeed outputs data in the proper format', () => {
     expect(typeof imagesData[0].offeredByAbout).toBe('string');
     expect(typeof imagesData[0].offeredByMain).toBe('string');
     expect(typeof imagesData[0].primaryInstructor).toBe('string');
-    expect(Array.isArray(imagesData[0].additionalInstructors)).toBe(true);
-    expect(typeof imagesData[0].additionalInstructors[0].instructorId).toBe('number');
-    expect(typeof imagesData[0].additionalInstructors[0].instructorImage).toBe('string');
+
+    // find a course where there are more than zero instructors, test that course.
+    let courseNumber;
+    for (let i = 0; i < imagesData.length; i++) {
+      if (imagesData[i].additionalInstructors.length > 0) {
+        courseNumber = i;
+        break;
+      }
+    }
+    expect(Array.isArray(imagesData[courseNumber].additionalInstructors)).toBe(true);
+    expect(typeof imagesData[courseNumber].additionalInstructors[0].instructorId).toBe('number');
+    expect(typeof imagesData[courseNumber].additionalInstructors[0].instructorImage).toBe('string');
+
     expect(typeof imagesData[0].testimonial1Image).toBe('string');
     expect(typeof imagesData[0].testimonial1Id).toBe('number');
     expect(typeof imagesData[0].testimonial2Image).toBe('string');
