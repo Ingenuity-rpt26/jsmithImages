@@ -1,6 +1,7 @@
-const imagesData = require('../data/images.json');
+/* eslint-disable no-undef */
+const imagesData = require('./data/images.json');
 
-//data needs to be generated prior to running tests
+// data needs to be generated prior to running tests
 describe('imagesSeed outputs data in the proper format', () => {
   test('imagesData should be an object with the correct properties', () => {
     expect(typeof imagesData).toBe('object');

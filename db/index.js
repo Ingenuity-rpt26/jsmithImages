@@ -1,12 +1,13 @@
-const mongoose = require('mongoose');
-const imagesSchema = require('./seed/schemas/imagesSchema');
+/* eslint-disable no-console */
+// const mongoose = require('mongoose');
+// const imagesSchema = require('./seed/schemas/imagesSchema');
 const imagesModel = require('./seed/models/imagesModel');
 
 const findOneImage = (courseNumber, imageName, cb) => {
   imagesModel.findOne({ id: courseNumber })
     .then((data) => {
-      let url = data[imageName];
-      let output = {};
+      const url = data[imageName];
+      const output = {};
       output[imageName] = url;
       cb(output);
     })
@@ -31,20 +32,3 @@ const findAllImages = (courseNumber, cb) => {
 
 module.exports.findOneImage = findOneImage;
 module.exports.findAllImages = findAllImages;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
