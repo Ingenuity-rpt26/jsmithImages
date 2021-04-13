@@ -1,7 +1,10 @@
+/* eslint-disable no-console */
 const mongoose = require('mongoose');
 const imagesSchema = require('../schemas/imagesSchema');
 
-mongoose.connect('mongodb://127.0.0.1/images', { useNewUrlParser: true, useUnifiedTopology: true });
+const mongoURL = process.env.MONGO_URL || 'mongodb://127.0.0.1/images';
+
+mongoose.connect(mongoURL, { useNewUrlParser: true, useUnifiedTopology: true });
 
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'images connection error'));
